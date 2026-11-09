@@ -673,6 +673,7 @@ section {
 }
 
 .instagram {
+    background: white;
     color: #ff168b;
     border: 2px solid #ff168b;
     border-radius: 7px;
@@ -680,6 +681,18 @@ section {
     height: 40px;
     line-height: 40px;
     text-align: center;
+}
+
+/* GITHUB */
+.github {
+    background: white;
+    border: 2px solid;
+    border-radius: 7px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    
 }
 
 .linkedin {
