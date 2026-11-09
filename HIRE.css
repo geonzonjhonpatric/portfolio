@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.back-link {
+    color: white;
+
+    font-size: var(--back-font-size);
+    font-weight: bold;
+    font-style: italic;
+
+    text-decoration: none;
+}
